@@ -5,7 +5,7 @@ The stars are now aligned to realize the vision of autonomous networking thanks 
 
 ## Related Publications
 - S. R. Chowdhury, R. Boutaba, and J. Francois. LINT: Accuracy-adaptive and Lightweight In-band Network Telemetry. IFIP/IEEE International Symposium on Integrated Network Management (IM). Bordeaux, France, May 17 - 21, 2021.
-- A. Laraba, J. Francois, S. R. Chowdhury, I. Chrisment, and R. Boutaba. Mitigating TCP Protocol Misuse with Programmable Data Planes. IEEE Transactions on Network and Service Management - Special Issue on Advanced Management of Softwarized Networks. To appear March 2021.
+- A. Laraba, J. Francois, S. R. Chowdhury, I. Chrisment, and R. Boutaba. Mitigating TCP Protocol Misuse with Programmable Data Planes. IEEE Transactions on Network and Service Management - Special Issue on Advanced Management of Softwarized Networks. IEEE Press. Vol. 18(1), pp. 760-774, March 2021.
 - A. Laraba, J. Francois, I. Chrisment, S. R. Chowdhury, and R. Boutaba. Defeating Protocol Abuse with P4: an Application to Explicit Congestion Notification. IFIP Networking 2020 Conference. Paris, France, June 22-26, 2020.
 - N. Salhab, R. Rahim, R. Langar, and R. Boutaba. Deep Neural Networks approach for Power Head-Room Predictions in 5G Networks and Beyond. IFIP Networking 2020 Conference. Paris, France, June 22-26, 2020.
 - E. H. Bouzidi, A. Outtagarts, A. Hebbar, R. Langar, and R. Boutaba. Online based learning for predictive end-to-end network slicing in 5G networks. IEEE International Conference on Computer Communications (ICC). Dublin, Ireland, June 7-11, 2020.
